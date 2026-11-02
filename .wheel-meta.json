@@ -1,0 +1,22 @@
+{
+  "wheel_id": 671,
+  "structure": "umbrella",
+  "slug": "qldretainingandfencing-110",
+  "project": "retaining-wall-installation-brisbane-what-to-expect-1d79b8808c0",
+  "parent_t1_ref": "qldretainingandfencing-154",
+  "node_role": "feeder",
+  "money_target": "qldretainingandfencing.com.au",
+  "primary_kw": "retaining wall installation brisbane what to expect",
+  "intended_url": "http://retaining-wall-installation-brisbane-what-to-expect-1d79b8808c0.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "4560e7a632c5a29d",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-installation-brisbane-checklist-2cb238572c696a2f/",
+      "anchor": "https://sites-e470-2.web.app/retaining-wall-installation-brisbane-checklist-2cb238572c696a2f/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
